@@ -1,11 +1,11 @@
-# Proyecto KPIS-Dashboard
+# Proyecto KPIS-Informe
 
 ## Objetivos del proyecto
-Este proyecto tiene como objetivo realizar un análisis exhaustivo de ganancias y pérdidas a través de un **dashboard** en **Power BI**. El análisis abarca los cuatro trimestres del año 2014 y se centra en establecer **KPIs** mediante umbrales y objetivos. Se explorarán las ganancias y pérdidas considerando diversos factores, como el tipo de producto, el segmento, el país, el descuento, el gasto por producto y la cantidad vendida.
+Este proyecto tiene como objetivo realizar un análisis exhaustivo de ganancias y pérdidas a través de un **Reporte** en **Power BI**. El análisis abarca los cuatro trimestres del año 2014 y se centra en establecer **KPIs** mediante umbrales y objetivos. Se explorarán las ganancias y pérdidas considerando diversos factores, como el tipo de producto, el segmento, el país, el descuento, el gasto por producto y la cantidad vendida.
 
-El dashboard está diseñado para proporcionar una visualización clara y detallada de estos aspectos. Gracias a los distintos filtros disponibles, el usuario puede identificar qué factores están provocando pérdidas a la empresa. Esto permite descubrir áreas problemáticas y entender mejor dónde podría estar fallando la empresa en sus operaciones de ventas, facilitando la toma de decisiones estratégicas y la implementación de medidas correctivas.
+El reporte está diseñado para proporcionar una visualización clara y detallada de estos aspectos. Gracias a los distintos filtros disponibles, el usuario puede identificar qué factores están provocando pérdidas a la empresa. Esto permite descubrir áreas problemáticas y entender mejor dónde podría estar fallando la empresa en sus operaciones de ventas, facilitando la toma de decisiones estratégicas y la implementación de medidas correctivas.
 
-[Dashboard online](https://app.powerbi.com/view?r=eyJrIjoiNmE5NWZhZmYtMGM2ZC00YzNmLThjMGItOWFmZDA5Zjg0MDNjIiwidCI6IjZiNzEzZTlhLTJhNGItNGMyYi1iZjc4LWRlODE2OGJjODdmMSIsImMiOjR9)
+[report online](https://app.powerbi.com/view?r=eyJrIjoiNmE5NWZhZmYtMGM2ZC00YzNmLThjMGItOWFmZDA5Zjg0MDNjIiwidCI6IjZiNzEzZTlhLTJhNGItNGMyYi1iZjc4LWRlODE2OGJjODdmMSIsImMiOjR9)
 
 ## KPIs Utilizados
 
@@ -55,5 +55,5 @@ Para evaluar el impacto del Discount Percentage, es importante analizar cómo lo
 
 ![image](https://github.com/user-attachments/assets/445ad282-a534-4772-ae96-eb100191e5b8)
 
-## Previsualización del Dashboard
+## Previsualización del Informe
 ![image](https://github.com/user-attachments/assets/767d4f74-436a-4f18-8163-f55d590c2d89)
